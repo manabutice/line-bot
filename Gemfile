@@ -49,3 +49,4 @@ end
 # 一番下に以下の二行を追加する
 gem 'dotenv-rails' 
 gem 'line-bot-api'
+gem 'sqlite3', '~> 1.3.6'
